@@ -1,10 +1,11 @@
-function App() {
+import ExpenseItem from "./components/ExpenseItem";
+
+const App = () => {
   return (
     <div>
-      <h1>Hello</h1>
-      <p>Hi</p>
+      <ExpenseItem />
     </div>
-  )
-}
+  );
+};
 
 export default App;
