@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Output:
+
 # ![Output](./Output.jpg)
+
+## Components of Application
 
 # ![Components of Application](./Component_Diagram_of_Application.jpg)
 
